@@ -1,7 +1,7 @@
 # "Finger Distinguish streamlit app"
 
 ### 🛠 스트림릿 배포 화면
-file:///C:/Users/jiisuu/Desktop/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-09-09%20172424.jpg
+![화면 캡처 2024-09-09 172424](https://github.com/user-attachments/assets/88e20bcd-2d23-4a9c-abfb-b73766693017)
 
 ## 💰주제
 손가락을 셀 수 있고 왼손과 오른손을 구별할 수 있는 모델링 -> streamlit app 배포
