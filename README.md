@@ -1,5 +1,8 @@
 # "Finger Distinguish streamlit app"
 
+### 🎈 스트림릿 앱 링크
+https://jisangha-ar6x2aeayuxsaga8ayveur.streamlit.app/
+
 ### 🛠 스트림릿 배포 화면
 ![화면 캡처 2024-09-09 172424](https://github.com/user-attachments/assets/88e20bcd-2d23-4a9c-abfb-b73766693017)
 
