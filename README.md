@@ -11,7 +11,7 @@ file:///C:/Users/jiisuu/Desktop/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-0
 https://www.kaggle.com/datasets/koryakinp/fingers
 
 ## ✨팀원소개
-<p> 팀명 : 금융2조 </p>
+<p> 팀명 : jisangha </p>
 
 |    소속    |   전공  |  이름  |
 | :--------: | :-----: | :----: |
